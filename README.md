@@ -13,3 +13,4 @@ Roi Francisco
 <br>Emmanuel Z. Nocum
 <br>Aina Mae R. Arroyo
 <br>Jorge Jr. G. Espeleta
+<br>Josiah Joseph I. Rosete
