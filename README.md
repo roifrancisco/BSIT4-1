@@ -6,4 +6,5 @@ Please clone this repository as your initial activity for git. Thank you
 
 Add your name at your name here after this my Name.
 
-Roi Francisco
+Roi Francisco <br>
+Aina Mae Arroyo
