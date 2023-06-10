@@ -10,6 +10,7 @@ Roi Francisco
 <br>Mark Stephen M.Cruz
 <br>Manuel L. Olarve
 <br>Jeric R. Valderama
+<br>Lalaine C. Vidaya 
 <br>Emmanuel Z. Nocum
 <br>Aina Mae R. Arroyo
 <br>Jorge Jr. G. Espeleta
