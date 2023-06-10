@@ -8,11 +8,3 @@ Add your name at your name here after my Name.
 
 Roi Francisco
 <br>Mark Stephen M.Cruz
-<br>Manuel L. Olarve
-<br>Jeric R. Valderama
-<br>Emmanuel Z. Nocum
-<br>Aina Mae R. Arroyo
-<br>Jorge Jr. G. Espeleta
-<br>Josiah Joseph I. Rosete
-<br>Francisco L. Espina II
-<br>Jennifer F. Sabado
