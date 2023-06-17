@@ -7,6 +7,7 @@ Please clone this repository as your initial activity for git. Thank you
 Add your name at your name here after my Name.
 
 Roi Francisco
+<br>Sky Steven P. Madridejo
 <br>Mark Stephen M.Cruz
 <br>Manuel L. Olarve
 <br>Jeric R. Valderama
