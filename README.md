@@ -37,3 +37,4 @@ Roi Francisco
 <br>David Angelo Baysa
 <br>Rey-an Anas
 <br>Arancon, Apple Mae
+<br> Hayward Canare
