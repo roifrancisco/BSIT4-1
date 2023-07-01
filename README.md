@@ -41,4 +41,4 @@ Roi Francisco
 <br> Gevie Karl D. Martinez
 <br> Joanabel P. Fernandez
 <br> Renzo Louis F. Montejo
-<br> Zhairo G. Mangundao
+<br> Mangundao, Zhairo G.
