@@ -42,3 +42,4 @@ Roi Francisco
 <br> Joanabel P. Fernandez
 <br> Renzo Louis F. Montejo
 <br> Zhairo G. Mangundao
+<br> Rico R. Lar
